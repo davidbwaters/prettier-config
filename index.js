@@ -17,7 +17,7 @@ module.exports = {
   'rangeStart': 0,
   'rangeEnd': 0,
   'parser': '',
-  'filePath': '',
+  'filePath': 'none',
   'requirePragma': false,
   'insertPragma': false,
   'proseWrap': 'preserve',
