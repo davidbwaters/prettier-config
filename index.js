@@ -10,7 +10,7 @@ module.exports = {
   'singleQuote': true,
   'quoteProps': 'consistent',
   'jsxSingleQuote': false,
-  'trailingComma': '',
+  'trailingComma': 'none',
   'brackeSpacing': true,
   'jsxBracketSameLine': false,
   'arrowParens': 'avoid',
