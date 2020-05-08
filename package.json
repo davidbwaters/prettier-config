@@ -1,6 +1,6 @@
 {
   "name": "@davidbwaters/prettier-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Preferred Prettier config.",
   "main": "index.js",
   "repository": "http://github.com/davidbwaters/prettier-config",
