@@ -22,5 +22,11 @@ module.exports = {
   'insertPragma': false,
   'proseWrap': 'preserve',
   'htmlWhitespaceSensitivity': 'css',
-  'endOfLine': 'auto'
+  'endOfLine': 'auto',
+  'overrides': [
+    {
+      'files': '*.js',
+      'options': { 'parser': babel}
+    }
+  ]
 }
