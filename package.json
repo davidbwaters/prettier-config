@@ -1,6 +1,6 @@
 {
   "name": "@davidbwaters/prettier-config",
-  "version": "1.1.13",
+  "version": "1.1.14",
   "description": "Preferred Prettier config.",
   "main": "index.js",
   "repository": "http://github.com/davidbwaters/prettier-config",
@@ -16,6 +16,6 @@
   "scripts": {
     "deploy": "yarn deploy:npm && yarn deploy:git",
     "deploy:npm": "yarn publish --patch",
-    "deploy:git": "yarn git add -A && git commit -m .; git push"
+    "deploy:git": "git add -A && git commit -m .; git push"
   }
 }
