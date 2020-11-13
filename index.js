@@ -14,12 +14,6 @@ module.exports = {
   'bracketSpacing': true,
   'jsxBracketSameLine': false,
   'arrowParens': 'avoid',
-  'rangeStart': 0,
-  'rangeEnd': 0,
-  'parser': '',
-  'filepath': 'none',
-  'requirePragma': false,
-  'insertPragma': false,
   'proseWrap': 'preserve',
   'htmlWhitespaceSensitivity': 'css',
   'endOfLine': 'auto'
