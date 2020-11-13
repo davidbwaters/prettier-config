@@ -16,6 +16,6 @@
   "scripts": {
     "deploy": "yarn deploy:npm && yarn deploy:git",
     "deploy:npm": "yarn publish --patch",
-    "deploy:git": "git add -A && git commit -m .; git push"
+    "deploy:git": "git add -A"
   }
 }
