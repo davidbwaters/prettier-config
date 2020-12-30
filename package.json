@@ -1,13 +1,13 @@
 {
   "name": "@davidbwaters/prettier-config",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Preferred Prettier config.",
   "main": "index.js",
   "repository": "http://github.com/davidbwaters/prettier-config",
   "author": "David B. Waters",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.3.1",
+    "eslint": "^7.16.0",
     "prettier": "^2.0.5"
   },
   "dependencies": {
