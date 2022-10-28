@@ -6,7 +6,7 @@
   "repository": "http://github.com/davidbwaters/prettier-config",
   "author": "David B. Waters",
   "license": "MIT",
-  "devDependencies": {
+  "peerDependencies": {
     "prettier": "^2.0.5"
   },
   "scripts": {
